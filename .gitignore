@@ -1,0 +1,6 @@
+# Terraform
+.terraform
+*tfstate*
+
+# IntelliJ IDEA or PyCharm
+.idea
